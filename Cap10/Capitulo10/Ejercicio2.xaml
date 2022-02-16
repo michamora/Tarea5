@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Cap10.Capitulo10"
         mc:Ignorable="d"
         Title="Ejercicio 2" Height="500" Width="800">
-    
+       
       <Grid  >
         <StackPanel>
             <StackPanel HorizontalAlignment="Center">
