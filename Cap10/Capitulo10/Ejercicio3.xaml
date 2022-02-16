@@ -13,4 +13,4 @@
             <ListBox x:Name="Poligonos" Background="#FFFFF5EE" Margin="10" HorizontalAlignment="Center" Height="200" Width="500"/>
         </StackPanel>
     </Grid>
-</Window>
+</Window>     
