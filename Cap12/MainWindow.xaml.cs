@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Cap12.Capitulo12;
-    
+             
 namespace Cap12
 {
     /// <summary>
