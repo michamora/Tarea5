@@ -8,7 +8,7 @@ namespace Cap12.Capitulo12
     /// <summary>
     /// Interaction logic for Ejercicio1.xaml
     /// </summary>
-
+   
     /*
         Ejercicio 2 : Utilizar el metodo WriteLine() de la clase Debug
         para que las funciones nos indiquen cuando entramos y salimos de ellas.
