@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Ejercicio 3" Height="200" Width="470">
     <Grid>
-      
+          
         <StackPanel>
             
             <Label Content="Las excepciones que pueden ocurrir con los arreglos son:"/>
