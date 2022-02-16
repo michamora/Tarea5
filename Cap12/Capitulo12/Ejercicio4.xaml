@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Ejercicio 4" Height="200" Width="350">
     <Grid>
-        
+                
         <StackPanel>
             
             <Label Content="Las excepciones que pueden ocurrir con los streams son:"/>

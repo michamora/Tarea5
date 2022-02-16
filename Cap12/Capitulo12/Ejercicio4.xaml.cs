@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows;
-
+         
 namespace Cap12.Capitulo12
 {
     /// <summary>
