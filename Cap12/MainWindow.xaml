@@ -16,7 +16,7 @@
                       <MenuItem Header="Ejercicio 3" Background="#FFE6E6FA" x:Name="ejercicio3" Click="ejercicio3_Click"></MenuItem>
                        <MenuItem Header="Ejercicio 4" Background="#FFE0FFFF" x:Name="ejercicio4" Click="ejercicio4_Click"></MenuItem>
                         <MenuItem Header="Ejercicio 5" Background="#FFF0F8FF" x:Name="ejercicio5" Click="ejercicio5_Click"></MenuItem>
- 
+         
                 </MenuItem>
             </Menu>
         </StackPanel>
