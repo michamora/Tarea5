@@ -12,7 +12,7 @@
                 <Button x:Name="Datos" Content="👆🏼 Click para ingresar producto en el inventario" Background="#FF87CEFA"  Width="300" Margin="20,20,0,0" HorizontalAlignment="Left" Click="Datos_Click" />
                 <Label Content="Inventario: " Margin="15,20,0,0"/>
                 <ListBox x:Name="DatosInventario" Background="#FFFFF5EE" Width="600" Height="250" Margin="20,5,0,0" HorizontalAlignment="Left"/>
-
+     
             </StackPanel>
         </StackPanel>
     </Grid>
