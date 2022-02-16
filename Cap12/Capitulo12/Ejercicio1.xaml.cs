@@ -8,7 +8,7 @@ namespace Cap12.Capitulo12
     /// <summary>
     /// Interaction logic for Ejercicio1.xaml
     /// </summary>
-
+  
     /*
         Ejercicio 1 : Usar la depuracion paso a paso para observar
         como cambia el valor de la variable en el programa del factorial

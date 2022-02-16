@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Cap12.Capitulo12"
         mc:Ignorable="d"
         Title="Ejercicio 1" Height="150" Width="300">
-    <Grid>
+    <Grid>  
         
         <StackPanel HorizontalAlignment="Center" Margin="20">
             <Label Content="Ingrese numero del Factorial: "/>
