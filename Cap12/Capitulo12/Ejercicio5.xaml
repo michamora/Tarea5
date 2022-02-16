@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Ejercicio 5" Height="200" Width="390">
     <Grid>
-        
+                  
         <StackPanel>
 
             <Label Content="Las excepciones que pueden ocurrir con el metodo WriteLine son:"/>
