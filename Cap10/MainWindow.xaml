@@ -10,13 +10,13 @@
         <StackPanel Orientation="Vertical">
             <Menu Height="18">
                 <MenuItem Header="Ejercicios 📐" Background="#FFFFFF00">
-                    
+                               
                     <MenuItem Header="Ejercicio 1" Background="#FFD8BFD8" x:Name="ejercicio1" Click="ejercicio1_Click"></MenuItem>
                      <MenuItem Header="Ejercicio 2" Background="#FFDCDCDC" x:Name="ejercicio2" Click="ejercicio2_Click"></MenuItem>
                       <MenuItem Header="Ejercicio 3" Background="#FFE6E6FA" x:Name="ejercicio3" Click="ejercicio3_Click"></MenuItem>
                        <MenuItem Header="Ejercicio 4" Background="#FFE0FFFF" x:Name="ejercicio4" Click="ejercicio4_Click"></MenuItem>
                         <MenuItem Header="Ejercicio 5" Background="#FFF0F8FF" x:Name="ejercicio5" Click="ejercicio5_Click"></MenuItem>
-                   
+                                         
                 </MenuItem>
             </Menu>
         </StackPanel>
